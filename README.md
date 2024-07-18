@@ -15,8 +15,11 @@
  - 운석의 출현 주기는 무작위로 생성하지만 시간대별 난이도를 구분한다.
  - 게임종료 시 다시 메뉴창으로 넘어갈지 게임을 종료할지 선택안을 제공한다.
 
+## 구현 화면
+![screensh](./PrevImg/ConsolePreview1.png)![screensh](./PrevImg/ConsolePreview2.png)![screensh](./PrevImg/ConsolePreview3.png)
 
-## 작성자
+
+## 개발자
  - 장동진
 
 
